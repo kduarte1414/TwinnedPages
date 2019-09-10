@@ -1,4 +1,12 @@
 body
 {
-    color:green;
+    color: #E2E495; background-image:url("imgs/breakfast%20images.jpg"); background-repeat: no-repeat; background-position: right; background-color: #6C437F; 
+}
+td
+{border: 3px solid;
+
+}
+a
+{
+    color: #75791B
 }
